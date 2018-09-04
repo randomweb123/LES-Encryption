@@ -1,0 +1,44 @@
+body {
+    background-color: #0C9;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#password {
+    font-size: 20px;
+    padding: 10px;
+    height: 25px;
+    border: none;
+    width: 65%
+}
+
+button {
+    background: cornflowerblue;
+    font-size: 20px;
+    color: white;
+    padding: 11px;
+    border: none;
+    width: 15%
+}
+
+@media only screen and (max-width: 1000px) {
+    #password {
+        font-size: 40px;
+        margin: 10px;
+        height: 50px;
+        width: 95%
+    }
+
+    button {
+        background: cornflowerblue;
+        font-size: 40px;
+        color: white;
+        padding: 11px;
+        margin: 10px;
+        width: 47%
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+}
