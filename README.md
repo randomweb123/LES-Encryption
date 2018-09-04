@@ -15,5 +15,8 @@ LESEncode(idOfObj) // idOfObj is used to get the <input> tag's id that you want 
 ```
 ### 2) Decryption
 ```javascript
-LESDecode(idOfObj) // idOfObj is used to get the <input> tag's id that you want to encrypt text from.
+LESDecode(idOfObj) // idOfObj is used to get the <input> tag's id that you want to decrypt text from.
 ```
+
+## Use in programs
+Examples of how to use it are shown in the main.js file provided, or on my [website](https://ninjanube008.github.io/LES/)
