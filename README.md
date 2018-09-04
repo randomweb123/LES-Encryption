@@ -19,4 +19,4 @@ LESDecode(idOfObj) // idOfObj is used to get the <input> tag's id that you want 
 ```
 
 ## Use in programs
-Examples of how to use it are shown in the main.js file provided, or on my [website](https://ninjanube008.github.io/LES/)
+Examples of how to use it are shown in the main.js file provided, or on my [website](https://ninjanube008.github.io/projects/LES/)
