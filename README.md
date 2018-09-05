@@ -19,7 +19,7 @@ LESDecode(idOfObj) // idOfObj is used to get the <input> tag's id that you want 
 ```
 ### &nbsp;&nbsp;&nbsp;&nbsp;3) Get Result
 ```javascript
-console.log(output) // output is the variable used to store the results of encrypting and decrypting for you to use.
+console.log(output) // output is the variable used to store the results of en/decrypting for you to use.
 ```
 
 ## Use in programs
