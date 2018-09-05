@@ -4,6 +4,7 @@
 ```
 git clone https://github.com/NinjaNube008/LES-Encryption.git
 ```
+Versions can be found in their respective folders.
 
 ## Usage
 The functions to encrypt data using LES are simple.
