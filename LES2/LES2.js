@@ -1,7 +1,7 @@
 var output;
-var chars = "1234567890abcdefghijklmnopqrstuvwxyz";
-var letters = "1234567890abcdefghijklmnopqrstuvwxyz";
-var static = "1234567890abcdefghijklmnopqrstuvwxyz";
+var chars = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~?!@#$%^&*()-_=+,./";
+var letters = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~?!@#$%^&*()-_=+,./";
+var static = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~?!@#$%^&*()-_=+,./";
 
 var chars = chars.split("");
 var letters = letters.split("");
