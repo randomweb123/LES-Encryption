@@ -8,7 +8,7 @@ Versions can be found in their respective folders.
 
 ## Usage
 The functions to encrypt data using LES are simple.
-To use encryption import the LES1.min.js file in your head tags.
+To use LES import the LES<version>.min.js file in your head tags.
 
  ### &nbsp;&nbsp;&nbsp;&nbsp;1) Encryption
 ```javascript
@@ -25,3 +25,4 @@ console.log(output) // output is the variable used to store the results of en/de
 
 ## Use in programs
 Examples of how to use it are shown in the main.js file provided, or on my [website](https://ninjanube008.github.io/projects/LES/)
+##### Example folder is constantly to use the most recent version of LES
